@@ -18,17 +18,8 @@
     background-color:  #EB9B07;
 }
 
-.logo-1-position{
-    position: absolute;
-    top: 0px;
-    right: 150px;
-    z-index: 300;
-}
+
 
 .logo-1-position img:hover{
     cursor: pointer;
-}
-
-#home-section{
-    background-color: #EB9B07 !important;
 }
